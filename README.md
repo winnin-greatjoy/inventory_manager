@@ -1,2 +1,2 @@
 # inventory_manager
-Inventory Management softwarenusing next js without typescript
+Inventory Management software using next js without typescript
